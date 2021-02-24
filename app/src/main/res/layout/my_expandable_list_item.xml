@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@android:id/text1"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingStart="?android:attr/expandableListPreferredItemPaddingLeft"
+    android:textAppearance="?android:attr/textAppearanceListItem"
+    android:gravity="center_vertical"
+    tools:text="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla posuere tortor nec massa luctus tempor. Proin congue, tortor bibendum posuere faucibus, lacus justo eleifend libero, eu consequat nunc ligula at purus."
+    android:textAlignment="viewStart" />
